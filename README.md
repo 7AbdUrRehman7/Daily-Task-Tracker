@@ -1,6 +1,6 @@
 # Daily Task Tracker
 
-A simple and efficient to-do list application built with Node.js, Express, and SQLite. This app allows users to add, delete, and mark tasks as done, with data persisted across page refreshes.
+A simple and efficient Task-Tracker application built with Node.js, Express, and SQLite. This app allows users to add, delete, and mark tasks as done.
 
 ## Features
 - Add tasks with a title and description.
