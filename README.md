@@ -6,8 +6,9 @@ A simple and efficient Task-Tracker application built with Node.js, Express, and
 - Add tasks with a title and description.
 - Delete tasks with a single click.
 - Mark tasks as "done" with a persistent state (line-through effect).
-- Data stored in a local SQLite database.
+- Data is stored in a local SQLite database.
 - Responsive and lightweight web interface.
+- More features coming soon.....
 
 ## Prerequisites
 - Node.js (v14.x or later recommended)
