@@ -1,4 +1,4 @@
-# Daily Task Tracker
+# Full-Stack Task Manager App
 
 A simple and efficient Task-Tracker application built with Node.js, Express, and SQLite. This app allows users to add, delete, and mark tasks as done.
 
